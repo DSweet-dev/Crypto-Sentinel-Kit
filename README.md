@@ -207,6 +207,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📬 Contact
 
-Your Name - [@YourTwitterHandle](https://x.com/McSladkyi) - your.email@example.com
+[@YourTwitterHandle](https://x.com/McSladkyi) - dsoolodbkiyb10@gmail.com
 
-Project Link: [https://github.com/YourUsername/Crypto-Sentinel-Kit](https://github.com/YourUsername/Crypto-Sentinel-Kit)
+Project Link: [https://github.com/DSweet-dev/Crypto-Sentinel-Kit](https://github.com/YourUsername/Crypto-Sentinel-Kit)
