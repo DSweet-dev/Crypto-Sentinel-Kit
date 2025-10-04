@@ -1,7 +1,7 @@
 #  Crypto-Sentinel-Kit 🛡️
 
 <div align="center">
-  <img src="https://path.to/your/simple/logo.png" alt="Project Logo" width="150"/>
+  <img src="images/logo_github.png" alt="Project Logo" width="600"/>
 </div>
 
 <p align="center">
